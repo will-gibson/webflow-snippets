@@ -6,7 +6,7 @@ Place within <head>
 
 
 ```js
-<!-- SNIPPET NAME HERE -->
+<!-- CLIP PATH -->
 <style>
 /* clip elements to specific shapes */
 /* provide 4 values for each side in the order: top, right, bottom, left to create the polygon */
