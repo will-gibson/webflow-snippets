@@ -1,8 +1,6 @@
-Clip Path (Slanted Edges)
+Shape the edge of your sections, buttons or other elements with slanted edges to give them more character with some CSS using the clip-path property.
 
-Shape the edge of your sections, buttons or other elements to give them more character with some CSS using the clip-path property.
-
-Place within <head>
+Place within `<head>`
 
 
 ```css
