@@ -5,7 +5,7 @@ Shape the edge of your sections, buttons or other elements to give them more cha
 Place within <head>
 
 
-```js
+```css
 <!-- CLIP PATH -->
 <style>
 /* clip elements to specific shapes */
