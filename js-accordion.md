@@ -2,7 +2,7 @@ Smooth accordion that automatically closes an accordion item when a new one is s
 
 Place into `<head>`
 
-```css
+```js
 <!-- Javascript Accordion Styles -->
 <style>
 /* Style the According Arrow */
