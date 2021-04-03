@@ -2,7 +2,7 @@ Add a custom date picker to your form for consistent date input. No more manuall
 
 Place into `<head>`
 
-```js
+```css
 <!-- DATE PICKER STYLES -->
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/pikaday/css/pikaday.css">
 <style>
