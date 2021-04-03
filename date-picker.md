@@ -1,5 +1,3 @@
-Date Picker
-
 Add a custom date picker to your form for consistent date input. No more manually typing it in for your visitors. Customize the look to match your design.
 
 Place into `<head>`
