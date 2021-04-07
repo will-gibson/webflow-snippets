@@ -1,4 +1,4 @@
-Overview: Smooth accordion that automatically closes an accordion item when a new one is selected. All elements are handled directly in Webflow.
+Smooth accordion that automatically closes an accordion item when a new one is selected. All elements are handled directly in Webflow.
 
 Place into `<head>`
 
