@@ -2,6 +2,7 @@ Add really nice custom buttons for your products quantity field. This is great s
 
 Place into `<head>`
 
+```css
 <!-- CUSTOM QUANTITY BUTTONS -->
 <style>
 /* remove form styles & set margin at 0 */
@@ -11,8 +12,10 @@ input[type="number"]::-webkit-outer-spin-button {
 	margin: 0;
 }
 </style>
+```
 
 Place into `</body>`
+```js
 <!-- CUSTOM QUANTITY BUTTONS --> 
 <script>
 // attach click event to document that then delegates to the '+' increase button
@@ -42,3 +45,4 @@ $(document).on('click', '.q-dec', function(){
   $input[0].dispatchEvent(new Event('change'));
 });
 </script>
+```
