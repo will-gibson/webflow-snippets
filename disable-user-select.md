@@ -1,6 +1,6 @@
-Overview: Disable the option for any user to highlight and select an element on your web page.
+Disable the option for any user to highlight and select an element on your web page.
 
-Guide: Simply paste the CSS code into the </ head> custom code section of either the page's settings or the global site settings like you see below.
+Simply paste the CSS code into the </ head> custom code section of either the page's settings or the global site settings like you see below.
 
 Place into `<head>`
 
