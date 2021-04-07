@@ -2,7 +2,7 @@ Overview: Disable the option for any user to highlight and select an element on 
 
 Guide: Simply paste the CSS code into the </ head> custom code section of either the page's settings or the global site settings like you see below.
 
-`<head> Code>`
+Place into `<head>`
 
 ```css
 <!-- DISABLES TEXT SELECT -->
