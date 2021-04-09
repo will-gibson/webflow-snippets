@@ -1,5 +1,6 @@
 This snippet will generate the text dynamically for the correct weekday where ever you want in your project.
 
+Place into `</body>`
 ```js
 <!-- DYNAMIC WEEKDAY --> 
 <script>
