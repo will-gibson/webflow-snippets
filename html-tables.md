@@ -1,7 +1,7 @@
 Here is an HTML table you can use in your Rich Text Elements or E-Commerce websites for products or simply to show data since Webflow doesn't natively support it yet.
 
 Place into `<embed>` element
-```html
+```css
 <!-- HTML TABLE --> 
 <style>
 /* ----------------------------- TABLE STYLES ----------------------------- */
