@@ -1,4 +1,4 @@
-This short Javascript code crumb will allow you to dynamically set the current year for your © copyright year in your footer automatically.
+This short Javascript code crumb dynamically sets the current year for your © copyright year in your footer automatically.
 
 Place into `</body>`
 ```js
