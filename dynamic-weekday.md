@@ -1,4 +1,4 @@
-This snippet will generate the text dynamically for the correct weekday where ever you want in your project.
+This snippet dynamically generates text for the correct weekday within your project.
 
 Place into `</body>`
 ```js
